@@ -1,0 +1,83 @@
+[
+    {
+        "id": " Piston 01",
+        "titulo": "Piston 01",
+        "imagen": "/img/pistones/piston-01.jpg",
+        "categoria": {
+            "nombre": "Pistones",
+            "id": "pistones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Cajetin 01",
+        "titulo": "Cajetin 01",
+        "imagen": "/img/cajetines/cajetin-01.jpg",
+        "categoria": {
+            "nombre": "Cajetines",
+            "id": "cajetines"
+        },
+        "precio": 1000
+        
+    },
+    {
+        "id": " Motor Limpiaparabrisas 01",
+        "titulo": "Motor Limpiaparabrisas 01",
+        "imagen": "/img/motor-limpia/motor-limpia-01.jpg",
+        "categoria": {
+            "nombre": "Motores Limpiaparaprisas",
+            "id": "motoreslimpia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Base 01",
+        "titulo": "Base 01",
+        "imagen": "/img/bases/base-01.jpg",
+        "categoria": {
+            "nombre": "Bases",
+            "id": "bases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Piston 02",
+        "titulo": "Piston 02",
+        "imagen": "/img/pistones/piston-01.jpg",
+        "categoria": {
+            "nombre": "Pistones",
+            "id": "pistones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Cajetin 02",
+        "titulo": "Cajetin 02",
+        "imagen": "/img/cajetines/cajetin-01.jpg",
+        "categoria": {
+            "nombre": "Cajetines",
+            "id": "cajetines"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Motor Limpiaparabrisas 02",
+        "titulo": "Motor Limpiaparabrisas 02",
+        "imagen": "/img/motor-limpia/motor-limpia-01.jpg",
+        "categoria": {
+            "nombre": "Motores Limpiaparaprisas",
+            "id": "motoreslimpia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": " Base 02",
+        "titulo": "Base 02",
+        "imagen": "/img/bases/base-01.jpg",
+        "categoria": {
+            "nombre": "Bases",
+            "id": "bases"
+        },
+        "precio": 1000
+    }
+]
